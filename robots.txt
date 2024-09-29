@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /fontawesome/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /img/
+Disallow: /_astro/
+Disallow: /styles/
+Sitemap: https://ikannetflix.com/sitemap-index.xml
