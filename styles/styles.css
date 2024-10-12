@@ -10963,3 +10963,20 @@ figure img{
   margin-left: .25em;
 }
 
+h2 {
+  background-color: #f0f8ff;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+h3 {
+  background-color: #f5f5dc;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+h4 {
+  background-color: #f0fff0;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
