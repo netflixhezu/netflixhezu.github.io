@@ -10556,8 +10556,10 @@ hr {
 }
 
 p {
-  margin: 1rem 0;
+  margin: 3px 2px 21px;
+  line-height: 2.50rem;
 }
+
 p a {
   text-decoration: underline;
 }
